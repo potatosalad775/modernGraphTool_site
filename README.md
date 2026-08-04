@@ -104,14 +104,14 @@ asks of you.
 
 | Path                   | What it is                                         |
 | ---------------------- | -------------------------------------------------- |
-| `index.html`           | Thin loader — pulls the app from the CDN            |
-| `config.js`            | Your settings                                       |
-| `theme.css`            | Your colors                                         |
-| `data/phones/`         | Your measurement files                              |
-| `data/target/`         | Target curves                                       |
-| `data/phone_book.json` | The brand and model list                            |
-| `assets/`              | Favicon, logos, images                              |
-| `.nojekyll`            | Tells GitHub Pages to serve files as-is — leave it  |
+| `index.html`           | Thin loader — pulls the app from the CDN           |
+| `config.js`            | Your settings                                      |
+| `theme.css`            | Your colors                                        |
+| `data/phones/`         | Your measurement files                             |
+| `data/target/`         | Target curves                                      |
+| `data/phone_book.json` | The brand and model list                           |
+| `assets/`              | Favicon, logos, images                             |
+| `.nojekyll`            | Tells GitHub Pages to serve files as-is — leave it |
 
 ---
 
